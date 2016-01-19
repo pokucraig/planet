@@ -10,3 +10,11 @@ nix
 hydra
 kerberos
 styx
+
+europe 
+io
+ganymede
+casllisto
+amalethea
+metis
+adrastea
